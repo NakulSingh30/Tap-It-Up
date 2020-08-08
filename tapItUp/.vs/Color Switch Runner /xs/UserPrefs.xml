@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{8A50F226-D3A1-2D88-F2EC-30751E31F149}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Destroy.cs">
+    <Files>
+      <File FileName="Assets/Switch.cs" Line="31" Column="37" />
+      <File FileName="Assets/Scripts/Bump.cs" Line="18" Column="12" />
+      <File FileName="Assets/ColorManager.cs" Line="8" Column="11" />
+      <File FileName="Assets/Scripts/Destroy.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

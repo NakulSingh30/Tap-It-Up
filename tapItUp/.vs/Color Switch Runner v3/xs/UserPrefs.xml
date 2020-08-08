@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{E5986356-21D0-0D2A-61F8-B421E9D09AE0}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ReadPolicy.cs">
+    <Files>
+      <File FileName="Assets/BannerAd.cs" Line="48" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/Ball.cs" Line="18" Column="5" />
+      <File FileName="Assets/Tap it up Scripts/Bump.cs" Line="43" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/BumpsInstantiate.cs" Line="34" Column="16" />
+      <File FileName="Assets/Tap it up Scripts/ColorManager.cs" Line="12" Column="14" />
+      <File FileName="Assets/Tap it up Scripts/CurrentScore.cs" Line="1" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/Destroy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/GameOver.cs" Line="82" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/GotoPreviousScene.cs" Line="19" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/GravityController.cs" Line="38" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/HighScore.cs" Line="21" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/HighScoreChecker.cs" Line="35" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/Instantiate.cs" Line="41" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/LeftBump.cs" Line="20" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/LeftWall.cs" Line="88" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/LevelManager.cs" Line="57" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/MusicManager.cs" Line="59" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/ParticleController.cs" Line="33" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/PlayerPrefsManager.cs" Line="57" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/RightBump.cs" Line="19" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/RightWall.cs" Line="84" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/Score.cs" Line="41" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/SetInitialVolume.cs" Line="32" Column="2" />
+      <File FileName="Assets/Tap it up Scripts/SoundClipsContainer.cs" Line="44" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/Swipe.cs" Line="123" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/Switch.cs" Line="1" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/TapToPlay.cs" Line="33" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/Tracker.cs" Line="28" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/VolumeManager.cs" Line="76" Column="1" />
+      <File FileName="Assets/Tap it up Scripts/Wall.cs" Line="38" Column="1" />
+      <File FileName="Assets/InterestitialAd.cs" Line="98" Column="1" />
+      <File FileName="Assets/GoogleMobileAds/Common/DummyClient.cs" Line="153" Column="1" />
+      <File FileName="Assets/GoogleMobileAds/Api/AdFailedToLoadEventArgs.cs" Line="1" Column="1" />
+      <File FileName="Assets/GoogleMobileAds/Api/InterstitialAd.cs" Line="21" Column="23" />
+      <File FileName="Assets/GoogleMobileAds/Api/BannerView.cs" Line="23" Column="1" />
+      <File FileName="Assets/GoogleMobileAds/Api/Reward.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ReadPolicy.cs" Line="23" Column="1" />
+      <File FileName="Assets/EZ Camera Shake/Scripts/Utilities/CameraUtilities.cs" Line="1" Column="1" />
+      <File FileName="Assets/EZ Camera Shake/Scripts/CameraShakeInstance.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
