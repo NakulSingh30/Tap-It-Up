@@ -19,5 +19,9 @@ GAME FEATURES
 
 ![image](https://user-images.githubusercontent.com/36731964/115655385-d8815d80-a350-11eb-9f0b-de48a57139d8.png)
 
+https://user-images.githubusercontent.com/36731964/115656984-c3f29480-a353-11eb-852e-50d789a5feea.mp4
+
+
+
 
 DOWNLOAD - https://github.com/NakulSingh30/Tap-It-Up/raw/master/tapItUp/Tap%20It%20Up!(final-signed).apk
